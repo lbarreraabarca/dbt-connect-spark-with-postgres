@@ -21,7 +21,7 @@ docker ps -a
 You need to create a virtual environment.
 ```bash
 python -m venv dbt-venv
-source ven/bin/activate
+source dbt-venv/bin/activate
 pip install -r requirements.txt
 ```
 
